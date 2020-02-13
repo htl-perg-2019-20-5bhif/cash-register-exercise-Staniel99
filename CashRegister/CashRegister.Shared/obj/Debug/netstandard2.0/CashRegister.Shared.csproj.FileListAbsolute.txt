@@ -1,0 +1,8 @@
+D:\5BHIF\MC\cash-register-exercise-Staniel99\CashRegister\CashRegister.Shared\bin\Debug\netstandard2.0\CashRegister.Shared.deps.json
+D:\5BHIF\MC\cash-register-exercise-Staniel99\CashRegister\CashRegister.Shared\bin\Debug\netstandard2.0\CashRegister.Shared.dll
+D:\5BHIF\MC\cash-register-exercise-Staniel99\CashRegister\CashRegister.Shared\bin\Debug\netstandard2.0\CashRegister.Shared.pdb
+D:\5BHIF\MC\cash-register-exercise-Staniel99\CashRegister\CashRegister.Shared\obj\Debug\netstandard2.0\CashRegister.Shared.csprojAssemblyReference.cache
+D:\5BHIF\MC\cash-register-exercise-Staniel99\CashRegister\CashRegister.Shared\obj\Debug\netstandard2.0\CashRegister.Shared.AssemblyInfoInputs.cache
+D:\5BHIF\MC\cash-register-exercise-Staniel99\CashRegister\CashRegister.Shared\obj\Debug\netstandard2.0\CashRegister.Shared.AssemblyInfo.cs
+D:\5BHIF\MC\cash-register-exercise-Staniel99\CashRegister\CashRegister.Shared\obj\Debug\netstandard2.0\CashRegister.Shared.dll
+D:\5BHIF\MC\cash-register-exercise-Staniel99\CashRegister\CashRegister.Shared\obj\Debug\netstandard2.0\CashRegister.Shared.pdb
